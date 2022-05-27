@@ -1,7 +1,18 @@
-# tour
+# A Tour App
 
-A new Flutter project.
-* Building
+This app was built using
+* Custom Carousel Slider
+* TabBar and TabBarView
+* ListView.builder
+* BottomNavigation Bar
+* Cubit State Management
+* Understanding Cubit and State 
+* Creating Cubit and States
+* BlocProvider and BlocBuilder
+* Cubit Navigation
+* Cubit Data Load From Server
+* Building Model
+
 
 ## Getting Started
 
